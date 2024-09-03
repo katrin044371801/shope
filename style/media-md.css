@@ -1,0 +1,8 @@
+@media only screen  and (max-width:1140px){
+    .col:nth-of-type(3){
+       
+        order: 4;
+        margin-top: 50px;
+        
+    }
+}
